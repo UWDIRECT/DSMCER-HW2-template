@@ -3,7 +3,7 @@
 
 ### Description and purpose 
 
-The purpose of HW2 is to give you practice with matplotlib and seaborn (if you want, though technically everything can be done in matplotlib). I'd like you to be able to make some composite images (e.g., a 6x6 panel graph) and learn more about customizing representation of 2D data (e.g., countour drawing).  
+The purpose of HW2 is to give you practice with matplotlib and seaborn (if you want, though technically everything can be done in matplotlib). I'd like you to be able to make some composite images (e.g., a 2x2 panel graph) and learn more about customizing representation of 2D data (e.g., scatter plots, countour drawing). Further I would like to start applying some of the concepts on descriptive statistics using plots to show distributions (e.g. histograms, kde plots).  
 
 ### Instructions 
 
