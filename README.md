@@ -3,13 +3,13 @@
 
 ### Description and purpose 
 
-The purpose of HW2 is to give you practice with matplotlib and seaborn (if you want, though technically everything can be done in matplotlib). I'd like you to be able to make some composite images (e.g., a 2x2 panel graph) and learn more about customizing representation of 2D data (e.g., scatter plots, countour drawing). Further I would like to start applying some of the concepts on descriptive statistics using plots to show distributions (e.g. histograms, kde plots).  
+The purpose of HW2 is to give you practice creating plots. Aim to feel comfortable both creating a very specific plot, as well as making some choices to create a plot exploring a question effectively. Finnaly 
 
 ### Instructions 
 
-More details are in the Jupyter notebook for HW2. Follow through the notebook and complete all your work there. When you are done, check back in your work. 
+More details are in the Jupyter notebook for HW2. Follow through the notebook and complete all your work there. When you are done, `commit` and `push` your work. 
 
-Note that I must be able to execute all cells in the notebook starting from top to bottom. I will "clear all output" from your notebook and then execute it all in order to make sure the notebook works. 
+After you feel finished with your notebook, `run kernel > restart and run all cells` in order to satisfy yourself that everything runs properly in order. This is what we will do to check that your code runs.
 
 ### A note about comments
 
