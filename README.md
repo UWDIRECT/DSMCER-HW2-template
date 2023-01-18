@@ -9,7 +9,7 @@ The purpose of HW2 is to give you practice creating plots. Aim to feel comfortab
 
 More details are in the Jupyter notebook for HW2. Follow through the notebook and complete all your work there. When you are done, `commit` and `push` your work. 
 
-After you feel finished with your notebook, `run kernel > restart and run all cells` in order to satisfy yourself that everything runs properly in order. This is what we will do to check that your code runs.
+After you feel finished with your notebook, __in the jupyter menu inside the notebook at the top__ `run kernel > restart and run all cells` in order to satisfy yourself that everything runs properly in order. This is what we will do to check that your code runs.
 
 ### A note about comments
 
