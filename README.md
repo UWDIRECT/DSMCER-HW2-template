@@ -3,7 +3,7 @@
 
 ### Description and purpose 
 
-The purpose of HW2 is to give you practice creating plots. Aim to feel comfortable both creating a very specific plot, as well as making some choices to create a plot exploring a question effectively. Finnaly 
+The purpose of HW2 is to give you practice creating plots. Aim to feel comfortable both creating a very specific plot, as well as making some choices to create a plot exploring a question effectively. Finally, you will run a basic statistica test.
 
 ### Instructions 
 
